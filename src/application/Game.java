@@ -20,6 +20,8 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
 
+// Setting Up the project: http://wiki.lwjgl.org/wiki/Setting_Up_LWJGL_with_IntelliJ_IDEA.html
+
 public class Game {
     public static void main(String[] args) {
         DisplayManager.createDisplay();
