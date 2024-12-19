@@ -1,4 +1,5 @@
 ### GGEngine - 3D Game Engine
+Features
 * Texturing
 * MipMapping
 * Fog Effect
@@ -6,6 +7,12 @@
 * Terrain Generation 
 * HeightMaps
 * Shadows
+
+Technologies
+* Java 15
+* OpenGL
+* LWJGL2
+* JInput
 
 ![](ggengineproject.gif)
 
