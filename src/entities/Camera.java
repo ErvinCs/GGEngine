@@ -48,7 +48,8 @@ public class Camera {
      * X-Axis Movement: A, D
      * Y-Axis Movement: Z, C
      * Rotation:        Q, E
-     * Pitch:           X. V
+     * Pitch:           X, V
+     * Log Position:    L
      */
     public void move() {
         // Z
@@ -92,7 +93,10 @@ public class Camera {
             this.roll -= moveSpeed;
         }
 
-        //System.out.println(this.toString());
+        // LOG
+        if (Keyboard.isKeyDown(Keyboard.KEY_L)) {
+            System.out.println(this.toString());
+        }
     }
 
     public Vector3f getPosition() {

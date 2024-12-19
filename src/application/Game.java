@@ -20,7 +20,10 @@ import java.util.ArrayList;
 import java.util.List;
 import java.util.Random;
 
-// Setting Up the project: http://wiki.lwjgl.org/wiki/Setting_Up_LWJGL_with_IntelliJ_IDEA.html
+// Setting Up the project:
+// 1. Setup OpenJDK 15
+// 2. Make sure the .jar files under lib are added to Dependencies
+// 3. Use files in libs to resolve any error messages that pop up
 
 public class Game {
     public static void main(String[] args) {
