@@ -9,4 +9,4 @@
 
 ![](ggengineproject.gif)
 
-Previous work on the Engine is available <a href="https://github.com/ErvinCs/graphics">here!</a>
+Previous work on the Engine is available <a href="https://github.com/ErvinCs/CSUBB/tree/master/5-CG-computer-graphicss">here!</a>
